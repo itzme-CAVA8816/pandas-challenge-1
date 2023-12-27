@@ -13,7 +13,7 @@ The file with the started code and additional steps and comments to complete the
 ### Installing
 
 The repo is public and can be cloned at:
-#### 
+#### (https://github.com/itzme-CAVA8816/pandas-challenge-1)
 
 ## Testing
 
